@@ -61,7 +61,7 @@ This Qt framework-based visualizer allows you to load and display the output fil
 
 The original paper of SIPP is:
 
-* [1] Phillips, M.; and Likhachev, M. 2011. Sipp: Safe interval path planning for dynamic environments. In 2011 IEEE International Conference on Robotics and Automation, 5628–5635. IEEE.\ [[Paper](https://www.cs.cmu.edu/~maxim/files/sipp_icra11.pdf)]
+* [1] Phillips, M.; and Likhachev, M. 2011. Sipp: Safe interval path planning for dynamic environments. In 2011 IEEE International Conference on Robotics and Automation, 5628–5635. IEEE. [[Paper](https://www.cs.cmu.edu/~maxim/files/sipp_icra11.pdf)]
   
 ## License
 
